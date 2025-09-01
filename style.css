@@ -13,7 +13,7 @@ body {
 }
 
 .hero_section {
-  background-image: url(images/developer.png);
+  background-image: url(developer.png);
   min-height: 100vh;
   background-position: center;
   background-size: cover;
@@ -137,4 +137,5 @@ footer {
   .contact h2 {
     font-size: 32px;
   }
+
 }
